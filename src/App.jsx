@@ -37,13 +37,12 @@ function App() {
               <div className="box-1">
                 <h3 className="title-box">Lorem ipsum dolor sit amet</h3>
                 <div className="box-container">
-                  <img
-                    className="img-box"
-                    src={`src/assets/images/box1.png`}
-                    alt=""
-                  />
-
                   <div className="content-container">
+                    <img
+                      className="img-box"
+                      src={`src/assets/images/box1.png`}
+                      alt=""
+                    />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     non dui sodales, faucibus libero ut, posuere felis. Donec
                     imperdiet suscipit accumsan. Aenean consequat condimentum
@@ -60,12 +59,12 @@ function App() {
               <div className="box-1">
                 <h3 className="title-box">Lorem ipsum dolor sit amet</h3>
                 <div className="box-container">
-                  <img
-                    className="img-box"
-                    src={`src/assets/images/box2.png`}
-                    alt=""
-                  />
                   <p className="content-container">
+                    <img
+                      className="img-box"
+                      src={`src/assets/images/box2.png`}
+                      alt=""
+                    />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     non dui sodales, faucibus libero ut, posuere felis. Donec
                     imperdiet suscipit accumsan. Aenean consequat condimentum
@@ -82,12 +81,12 @@ function App() {
               <div className="box-1">
                 <h3 className="title-box">Lorem ipsum dolor sit amet</h3>
                 <div className="box-container">
-                  <img
-                    className="img-box"
-                    src={`src/assets/images/box3.png`}
-                    alt=""
-                  />
                   <p className="content-container">
+                    <img
+                      className="img-box"
+                      src={`src/assets/images/box3.png`}
+                      alt=""
+                    />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
                     non dui sodales, faucibus libero ut, posuere felis. Donec
                     imperdiet suscipit accumsan. Aenean consequat condimentum
